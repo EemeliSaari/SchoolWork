@@ -1,5 +1,5 @@
 # TIE-02106 Introduction to Programming
-# Purpose: learn to use lists in depth
+# Purpose: learn to use lists within list data structure
 
 
 def ui(matrix):
