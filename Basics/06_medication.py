@@ -1,4 +1,4 @@
-# Purpose: learn more about boolean and introduction to functions
+# Purpose: learn more about functions
 
 
 def calculate_dose(weight, previous_dose, whole_dose):
