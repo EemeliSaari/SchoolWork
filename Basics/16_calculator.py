@@ -1,5 +1,6 @@
 # TIE-02100
-#Purpose: learn how to use Class objects in a dict format
+# Purpose: learn how to use Class objects in a dict format
+
 
 class Fraction:
     """ This class represents one single fraction that consists of
